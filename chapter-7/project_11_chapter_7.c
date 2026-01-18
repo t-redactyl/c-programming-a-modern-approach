@@ -20,4 +20,6 @@ int main() {
             printf("%c", ch);
     }
     printf(" , %c.", user_initial);
+
+    return 0;
 }
